@@ -1,0 +1,9 @@
+.gradient {
+    background: linear-gradient(90deg, #d53369 0%, #daae51 100%);
+}
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+/* Additional custom styles can be added here */
